@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Belatrix", "WindowsFormsApp1\Belatrix.csproj", "{D2DE1A21-2AB4-43F1-A890-CAFB75169B59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestBelatrix", "UnitTestProject1\UnitTestBelatrix.csproj", "{BCB87B6E-65F9-452C-8448-723C4E90903D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2DE1A21-2AB4-43F1-A890-CAFB75169B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DE1A21-2AB4-43F1-A890-CAFB75169B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DE1A21-2AB4-43F1-A890-CAFB75169B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DE1A21-2AB4-43F1-A890-CAFB75169B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB87B6E-65F9-452C-8448-723C4E90903D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB87B6E-65F9-452C-8448-723C4E90903D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB87B6E-65F9-452C-8448-723C4E90903D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB87B6E-65F9-452C-8448-723C4E90903D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2FBF20C-5EB3-42B1-AF0D-CF9DF59C453B}
+	EndGlobalSection
+EndGlobal
